@@ -1,12 +1,29 @@
 .jumbotron {
-  padding-top: 6rem;
-  background-color: #e2edff;
+  padding-top: 7rem;
+  background-color: #e6e6e6a9;
+}
+
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 #Galery {
-  background-color: #e2edff;
+  background-color: #e6e6e6a9;
+}
+
+h2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 section {
-  padding-top: 6rem;
+  padding-top: 1rem;
+}
+
+a {
+  color: rgb(220, 202, 81);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
 }
